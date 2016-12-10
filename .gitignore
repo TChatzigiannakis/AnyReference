@@ -1,0 +1,5 @@
+*.suo
+Tests/obj/
+Tests/bin/
+AnyReference/obj/
+AnyReference/bin/
